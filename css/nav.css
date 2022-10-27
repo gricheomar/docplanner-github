@@ -24,8 +24,8 @@
     font-size: 15px;
 
 }
-.nav-link:hover {
-    color: #02a82b
+.nav-item:hover .nav-link {
+    color: #00839b
 
 }
 
