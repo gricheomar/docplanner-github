@@ -20,10 +20,17 @@
     display: flex;
 }
 .nav-item {
-    padding: 0 9px;
+    padding: 0.5em 9px;
+    font-size: 15px;
+
 }
+.nav-link:hover {
+    color: #02a82b
+
+}
+
 .nav-link {
     text-decoration: none;
     color: #ababab;
-    font-size: 15px;
+   
 }
